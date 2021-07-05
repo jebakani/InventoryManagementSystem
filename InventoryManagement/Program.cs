@@ -6,6 +6,7 @@ namespace InventoryManagement
     {
         /// <summary>
         /// create the inventory management system using Json and displaying the data
+        /// managing the inventory 
         /// </summary>
         /// <param name="args">The arguments.</param>
         static void Main(string[] args)
